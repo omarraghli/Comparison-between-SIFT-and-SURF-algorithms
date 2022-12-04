@@ -1,3 +1,6 @@
-# surf algorithm 
+# Comparison-between-SIFT-and-SURF-algorithms
+ 
 
-this algorithm based on opencv 4.0.0 and c++
+Implementation of SIFT and SURF algorithm using C++ and a minimum of OpenCV
+
+
