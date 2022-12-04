@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1669940679 source:c:\users\sajitsu\desktop\surf\ipoint.cpp
+	<opencv2/opencv.hpp>
+	<vector>
+	"ipoint.h"
+
+1546062508 c:\users\sajitsu\desktop\surf\ipoint.h
+	<vector>
+	<math.h>
+
+1546062508 source:c:\users\sajitsu\desktop\surf\integral.cpp
+	"utils.h"
+	"integral.h"
+
+1669940699 c:\users\sajitsu\desktop\surf\utils.h
+	<opencv2/opencv.hpp>
+	"ipoint.h"
+	<vector>
+
+1669940705 c:\users\sajitsu\desktop\surf\integral.h
+	<algorithm>
+	<opencv2/opencv.hpp>
+
+1669942859 source:c:\users\sajitsu\desktop\surf\utils.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<opencv2/opencv.hpp>
+	"utils.h"
+
+1546062508 source:c:\users\sajitsu\desktop\surf\fasthessian.cpp
+	"integral.h"
+	"ipoint.h"
+	"utils.h"
+	<vector>
+	"responselayer.h"
+	"fasthessian.h"
+
+1546062508 c:\users\sajitsu\desktop\surf\responselayer.h
+	<memory.h>
+
+1669940731 c:\users\sajitsu\desktop\surf\fasthessian.h
+	<opencv2/opencv.hpp>
+	"ipoint.h"
+	<vector>
+
+1546062508 source:c:\users\sajitsu\desktop\surf\surf.cpp
+	"utils.h"
+	"surf.h"
+
+1669940737 c:\users\sajitsu\desktop\surf\surf.h
+	<opencv2/opencv.hpp>
+	"ipoint.h"
+	"integral.h"
+	<vector>
+
+1670107627 source:c:\users\sajitsu\desktop\surf\main.cpp
+	"surflib.h"
+	"kmeans.h"
+	<ctime>
+	<iostream>
+	<ctime>
+	"sift.h"
+	<opencv2/opencv.hpp>
+
+1669940713 c:\users\sajitsu\desktop\surf\surflib.h
+	<opencv2/opencv.hpp>
+	"integral.h"
+	"fasthessian.h"
+	"surf.h"
+	"ipoint.h"
+	"utils.h"
+
+1546062508 c:\users\sajitsu\desktop\surf\kmeans.h
+	"ipoint.h"
+	<vector>
+	<time.h>
+	<stdlib.h>
+
+1670099787 c:\users\sajitsu\desktop\surf\sift.h
+	<iostream>
+	<vector>
+	<cmath>
+	<string>
+	<sstream>
+	<opencv2/opencv.hpp>
+	"opencv2/features2d/features2d.hpp"
+
+1670175870 source:c:\users\sajitsu\desktop\surf vs sift\fasthessian.cpp
+	"integral.h"
+	"ipoint.h"
+	"utils.h"
+	<vector>
+	"responselayer.h"
+	"fasthessian.h"
+
+1670175992 c:\users\sajitsu\desktop\surf vs sift\integral.h
+	<algorithm>
+	<opencv2/opencv.hpp>
+
+1670175998 c:\users\sajitsu\desktop\surf vs sift\ipoint.h
+	<vector>
+	<math.h>
+
+1670176036 c:\users\sajitsu\desktop\surf vs sift\utils.h
+	<opencv2/opencv.hpp>
+	"ipoint.h"
+	<vector>
+
+1670176016 c:\users\sajitsu\desktop\surf vs sift\responselayer.h
+	<memory.h>
+
+1670175986 c:\users\sajitsu\desktop\surf vs sift\fasthessian.h
+	<opencv2/opencv.hpp>
+	"ipoint.h"
+	<vector>
+
+1670175878 source:c:\users\sajitsu\desktop\surf vs sift\integral.cpp
+	"utils.h"
+	"integral.h"
+
+1670175893 source:c:\users\sajitsu\desktop\surf vs sift\ipoint.cpp
+	<opencv2/opencv.hpp>
+	<vector>
+	"ipoint.h"
+
+1670175930 source:c:\users\sajitsu\desktop\surf vs sift\main.cpp
+	"surflib.h"
+	"kmeans.h"
+	<ctime>
+	<iostream>
+	<ctime>
+	"sift.h"
+	<opencv2/opencv.hpp>
+
+1670176031 c:\users\sajitsu\desktop\surf vs sift\surflib.h
+	<opencv2/opencv.hpp>
+	"integral.h"
+	"fasthessian.h"
+	"surf.h"
+	"ipoint.h"
+	"utils.h"
+
+1670176024 c:\users\sajitsu\desktop\surf vs sift\surf.h
+	<opencv2/opencv.hpp>
+	"ipoint.h"
+	"integral.h"
+	<vector>
+
+1670176005 c:\users\sajitsu\desktop\surf vs sift\kmeans.h
+	"ipoint.h"
+	<vector>
+	<time.h>
+	<stdlib.h>
+
+1670108623 c:\users\sajitsu\desktop\surf vs sift\sift.h
+	<iostream>
+	<vector>
+	<cmath>
+	<string>
+	<sstream>
+	<opencv2/opencv.hpp>
+	"opencv2/features2d/features2d.hpp"
+
+1670175910 source:c:\users\sajitsu\desktop\surf vs sift\surf.cpp
+	"utils.h"
+	"surf.h"
+
+1670175939 source:c:\users\sajitsu\desktop\surf vs sift\utils.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<opencv2/opencv.hpp>
+	"utils.h"
+
